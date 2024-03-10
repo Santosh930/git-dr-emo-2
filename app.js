@@ -1,1 +1,3 @@
-console.log('This is santosh kumar  from Bihar');
+const branchName='master';
+console.log(branchName);
+console.log(branchName);
